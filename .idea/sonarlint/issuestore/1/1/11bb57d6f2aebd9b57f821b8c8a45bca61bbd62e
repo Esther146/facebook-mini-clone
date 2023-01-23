@@ -1,0 +1,11 @@
+
+g	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¨š¼êÜ0
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú·ï8©š¼êÜ0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤¶Ù¹ùÿÿÿÿ8­š¼êÜ0
+l
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ùåø8¾š¼êÜ0
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(¼¬ĞÊ8¾š¼êÜ0
+\
+java:S1118
+":Add a private constructor to hide the implicit public one.(¤Ò¨§ùÿÿÿÿ8Àš¼êÜ0

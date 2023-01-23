@@ -1,0 +1,8 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ññ¾üÿÿÿÿ8´Ï¸êÜ0
+i
+java:S2259"LA "NullPointerException" could be thrown; "getDatasource()" can return null.(Ù”÷â8ÂÏ¸êÜ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ8ÍÏ¸êÜ0
+‹
+java:S1130!"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Á¯¦þ8ÐÏ¸êÜ0
+U	java:S106""9Replace this use of System.out or System.err by a logger.(”ºß¢8ÓÏ¸êÜ0
